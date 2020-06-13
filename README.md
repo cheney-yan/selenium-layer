@@ -1,4 +1,4 @@
-# Selemium lambda layer for Sonda.
+# Selemium lambda layer.
 
 Deploy this to staging/production and create headless chromium layers.
 So other lambda can use this layer to carry out selenium tests.
